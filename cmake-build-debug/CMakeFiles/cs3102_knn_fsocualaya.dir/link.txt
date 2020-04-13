@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/cs3102_knn_fsocualaya.dir/src/main.cpp.o  -o cs3102_knn_fsocualaya 

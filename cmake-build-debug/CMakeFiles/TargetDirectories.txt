@@ -1,3 +1,0 @@
-/home/notpyxl/UTEC/undergraduate/7th/eda/week1/cs3102-knn-fsocualaya/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/notpyxl/UTEC/undergraduate/7th/eda/week1/cs3102-knn-fsocualaya/cmake-build-debug/CMakeFiles/cs3102_knn_fsocualaya.dir
-/home/notpyxl/UTEC/undergraduate/7th/eda/week1/cs3102-knn-fsocualaya/cmake-build-debug/CMakeFiles/edit_cache.dir
